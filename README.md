@@ -2,6 +2,10 @@
 
 [![tests](https://github.com/shashwatsaxena571/explanation-drift-monitor/actions/workflows/tests.yml/badge.svg)](https://github.com/shashwatsaxena571/explanation-drift-monitor/actions/workflows/tests.yml)
 
+<p align="center">
+  <img src="docs/drift-monitor-demo.gif" alt="Attribution drift detection demo" width="820">
+</p>
+
 **Your model's accuracy is stable. Its *reasoning* changed. This tool catches that — with zero labels.**
 
 ## The problem
